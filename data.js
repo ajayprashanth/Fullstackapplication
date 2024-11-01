@@ -8,8 +8,7 @@
 //             price: 35,
 //             brand: " Nike",
 //             rating: 3.0,
-//             numReviews: 13,
-//             countInStock: 6
+//             numReviews: 13
 //         },
 //         {
 //             _id: "2",
@@ -19,8 +18,7 @@
 //             price: 50,
 //             brand: " Nike",
 //             rating: 4.2,
-//             numReviews: 66,
-//             countInStock: 8
+//             numReviews: 66
 //         },
 //         {
 //             _id: "3",
@@ -30,8 +28,7 @@
 //             price: 70,
 //             brand: " Nike",
 //             rating: 4,
-//             numReviews: 8,
-//             countInStock: 8
+//             numReviews: 8
 //         },
 //         {
 //             _id: "4",
@@ -41,8 +38,7 @@
 //             price: 40,
 //             brand: " Nike",
 //             rating: 3.5,
-//             numReviews: 18,
-//             countInStock: 9
+//             numReviews: 18
 //         }
 //     ]
 // };
